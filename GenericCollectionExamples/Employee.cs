@@ -21,7 +21,7 @@ namespace GenericCollectionExamples
 
         public override string ToString()
         {
-            return $"Id = {Id}\nName = {Name}\nSalary = {Salary:C}";
+            return $"Id = {Id}\nName = {Name}\nSalary = {Salary:C}\n\n";
         }
     }
 }
